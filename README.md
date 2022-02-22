@@ -47,3 +47,4 @@ Authentication (JWT / Firebase / Auth0)
 Fully responsive and compatible with all modern browsers and devices
 Fully documented
 # uko
+# mui-template1
